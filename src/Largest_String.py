@@ -1,5 +1,16 @@
 #Largest lexicographical string with at most K consecutive elements
 
+#QUESTION: Given a string S, the task is to find the largest 
+#lexicographical string with no more than K consecutive occurrence of an element 
+#by either re-arranging or deleting the elements.
+
+#SAMPLE I/O:
+#Input: S = “baccc” 
+#K = 2 
+#Output: Result = “ccbca” 
+
+#----------------------------------------------------------------------------------------
+
 #!/bin/python3
 
 import math
